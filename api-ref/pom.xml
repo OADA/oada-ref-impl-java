@@ -20,7 +20,7 @@
     <slf4j.version>1.7.7</slf4j.version>
     <servlet.version>2.5</servlet.version>
     <spring.version>4.0.5.RELEASE</spring.version>
-    <spring.security.version>3.2.4.RELEASE</spring.security.version>
+    <spring.security.version>5.2.9.RELEASE</spring.security.version>
     <spring.oauth.version>2.0.1.RELEASE</spring.oauth.version>
     <spring.saml.version>1.0.0.RC2</spring.saml.version>
     <pg.driver.version>9.2-1002-jdbc4</pg.driver.version>
